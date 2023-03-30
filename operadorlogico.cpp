@@ -1,4 +1,6 @@
+//Biblioteca padrão.
 #include <iostream>
+//Forma de não precisarmos escrever "std::" para o código funcionar.
 using namespace std;
 
 int main () {
