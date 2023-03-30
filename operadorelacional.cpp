@@ -1,4 +1,6 @@
+//Biblioteca padrão.
 #include <iostream>
+//Serva para precisarmos escrever "std::" na frente de cada "cout/cin"
 using namespace std;
 
 int main () {
