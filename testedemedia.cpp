@@ -1,3 +1,4 @@
+//Bibliotecas padrões.
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
