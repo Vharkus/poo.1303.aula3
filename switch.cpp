@@ -23,25 +23,25 @@ int main() {
         //Case pega uma parte específica dentro da variável para analisar.
         case '+':
             //Interface que recebe os dois números usados e realiza a operação definida aqui também.
-            cout << num1 << '+' << num2 << '=' << num1 + num2;
+            cout << num1 << '+' << num2 << '=' << num1 + num2 << endl;
             //Encerra o case específico para não se misturar com os outros.
             break;
         //Case pega uma parte específica dentro da variável para analisar.
         case '-':
             //Interface que recebe os dois números usados e realiza a operação definida aqui também.
-            cout << num1 << '-' << num2 << '=' << num1 - num2;
+            cout << num1 << '-' << num2 << '=' << num1 - num2 << endl;
             //Encerra o case específico para não se misturar com os outros.
             break;
         //Case pega uma parte específica dentro da variável para analisar.
         case '*':
             //Interface que recebe os dois números usados e realiza a operação definida aqui também.
-            cout << num1 << '*' << num2 << '=' << num1 * num2;
+            cout << num1 << '*' << num2 << '=' << num1 * num2 << endl;
             //Encerra o case específico para não se misturar com os outros.
             break;
         //Case pega uma parte específica dentro da variável para analisar.
         case '/':
             //Interface que recebe os dois números usados e realiza a operação definida aqui também.
-            cout << num1 << '/' << num2 << '=' << num1 / num2;
+            cout << num1 << '/' << num2 << '=' << num1 / num2 << endl;
             //Encerra o case específico para não se misturar com os outros.
             break;
         //Semelhante a "Else", caso alguma informação que não tenha na variável usada seja digitado irá cair nessa parte aqui.
